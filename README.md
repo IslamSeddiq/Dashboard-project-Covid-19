@@ -11,7 +11,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-Python
+[Python]
 
 ## About Project 💻
 
